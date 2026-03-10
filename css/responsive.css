@@ -52,4 +52,34 @@
     }
 }
 
-@media screen and (min-width:992px) {}
+@media screen and (min-width:992px) {
+    .recipe-name {
+        font-size: 50px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .quick-notes ul {
+        display: block;
+    }
+}
+
+
+@media screen and (min-width:992px) {
+    .recipe-card {
+        display: flex;
+        gap: 20px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .recipe-video {
+        width: 60%;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .recipe-info {
+        width: 40%;
+    }
+}
